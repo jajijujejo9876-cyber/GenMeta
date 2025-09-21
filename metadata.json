@@ -1,0 +1,5 @@
+{
+  "name": "Adobe Stock Metadata Generator",
+  "description": "An AI-powered application to generate premium, SEO-friendly metadata for Adobe Stock images and videos using Google's Gemini API. Features parallel processing with multiple API keys, robust failover, and a premium user interface.",
+  "requestFramePermissions": []
+}
